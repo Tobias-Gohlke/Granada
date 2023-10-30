@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">Granada</string>
+    <string name="option_Page">Options</string>
+    <string name="recommendations_Page">Recommendations</string>
+    <string name="description_Page">Description</string>
+    <string name="start_button">Let\'s go</string>
+    <string name="app_description">Uncover the essence of Granada, your ultimate city guide.</string>
+    <string name="place_1_name">Ort 1</string>
+    // Options
+    <string name="parks">Parks</string>
+    <string name="descriptionParks">Granada\'s parks offer a serene escape within the city,
+        providing lush greenery and a peaceful environment for all to enjoy.</string>
+    <string name="hiking">Hiking</string>
+    <string name="descriptionHiking">Granada\'s hiking trails deliver awe-inspiring vistas
+        and adventure. From the Sierra Nevada to Cumbres Verdes, explore
+        nature\'s beauty on these scenic routes.</string>
+    <string name="pizzaria">Pizzeria</string>
+    <string name="descriptionPizzaria">Granada\'s pizzerias offer a taste of Italy in Spain.
+        From classic Margheritas to gourmet creations, savor every bite in the heart of the city.</string>
+    <string name="other">Others</string>
+    <string name="descriptionOther">Explore Granada\'s diverse attractions, from the iconic
+        Alhambra to the enchanting Albaicín neighborhood. Immerse yourself in culture, history,
+        and the city\'s unique charm. Granada awaits your exploration.</string>
+    <string name="parties">Parties</string>
+    <string name="descriptionParty">Granada\'s nightlife is vibrant and diverse. Enjoy the buzzing
+        bars and clubs on Calle Pedro Antonio de Alarcón, the live music on Elvira Street, and
+        the authentic flamenco in Sacromonte. The city comes alive after midnight,
+        so be ready to party!</string>
+// Recommandation
+    //Parks
+    <string name="recommendationParkFrederico">Federico García Lorca</string>
+    <string name="starsParkFrederico">4.5</string>
+    <string name="recommendationParkFredericoDes">Der Park Federico García Lorca ist ein Park in
+        der Arabial St., Granada, Spanien. Es ist nach dem spanischen Dichter Federico García Lorca
+        benannt. Er ist mit vielen sonnigen Alleen und Palmen gestaltet. Der Park ist tagsüber für
+        die Öffentlichkeit zugänglich. Der Eintritt ist frei.</string>
+    <string name="recommendationParkJardines">Jardines del Triunfo</string>
+    <string name="starsParkJardines">4.5</string>
+    <string name="recommendationParkJardinesDes">Der Jardines del Triunfo genannte Ort in Granada
+        ist ein monumental gestalteter, zentraler Platz mit einem großen Wasserspiel und einer
+        weithin sichtbaren Säulenstatue der Unbefleckten Jungfrau. Er dient zur Erholung und ist
+        als Knotenpunkt für verschiedene Buslinien auch von verkehrstechnischer Bedeutung.</string>
+    <string name="recommendationParkMedina">Parque Tico Medina</string>
+    <string name="starsParkMedina">4.5</string>
+    <string name="recommendationParkMedinaDes">Der Tico Medina Park ist der größte in der Hauptstadt
+        Granada. Es befindet sich vor dem Wissenschaftspark und ist 75.000 Quadratmeter groß.
+        Dieser Ort ist ideal zum Radfahren, Laufen und Trainieren, für einen Spaziergang oder
+        zum Gassigehen mit dem Hund und zum Trainieren in dem für Haustiere vorgesehenen Bereich.
+        </string>
+    <string name="recommendationParkGeneralife">Dehesa del Generalife</string>
+    <string name="starsParkGeneralife">4.7</string>
+    <string name="recommendationParkGeneralifeDes">Weitläufige Grünanlage mit Wanderwegen,
+        Picknicktischen, Ruinen sowie Stadt- und Bergblick.
+        </string>
+    //Hiking
+    <string name="recommendationHikingMonachil">Parque Tico Medina</string>
+    <string name="starsHikingMonachil">4.6</string>
+    <string name="recommendationHikingMonachilDes">Erforsche diesen 7,6-Kilometer langen Rundweg
+        in der Nähe von Monachil, Granada. Die Route wird grundsätzlich als moderat eingestuft und
+        kann zumeist in 2 Std 32 Min bewältigt werden. Da sich der Weg bestens zum Vogelbeobachtung
+        und Wandern eignet, bist du selten allein unterwegs und wirst während deines Ausflugs auch
+        auf andere Abenteurer treffen. Die beste Zeit für einen Besuch dieser Route ist von April
+        bis Oktober. 2 Std 32
+        </string>
+    <string name="recommendationHikingAlhambra">Alhambra y Albaicín</string>
+    <string name="starsHikingAlhambra">4.5</string>
+    <string name="recommendationHikingAlhambraDes">Erkunde diesen 5,3-Kilometer langen Rundweg in
+        der Nähe von Granada, Granada. Die Route wird grundsätzlich als moderat eingestuft und kann
+        zumeist in 1 Std 31 Min bewältigt werden. Da sich der Weg bestens zum Spazieren eignet, bist
+        du selten allein unterwegs und wirst während deines Ausflugs auch auf andere Abenteurer
+        treffen. Die Route ist das ganze Jahr über zugänglich und zu jeder Jahreszeit einen Ausflug
+        wert. Hunde sind erlaubt, müssen aber angeleint sein. 1 Std 51
+        </string>
+    <string name="recommendationHikingCaminitoDelRey">Caminito Del Rey</string>
+    <string name="starsHikingCaminitoDelRey">4.8</string>
+    <string name="recommendationHikingCaminitoDelReyDes">Looking for an adventure where you can
+        capture a stunning natural beauty while experiencing an exhilarating hiking trail? Caminito
+        del Rey from Granada is the perfect trip for you to embark on. It will not just boast
+        captivating and scenic views with a touch of Malaga’s rich history, but it will also give
+        you that thrilling experience you’ve been looking for. In this article, you will find all
+        the information you need to prepare for an unforgettable trip to Caminito del Rey from
+        Granada. 2 Std 30
+        </string>
+    <string name="recommendationHikingMulhacén">Mulhacén vía Refugio Poqueira</string>
+    <string name="starsHikingMulhacén">4.6</string>
+    <string name="recommendationHikingMulhacénDes">Sei auf diesem 20,4-Kilometer langen Hin- und
+        Rückweg in der Nähe von Capileira, Granada vorsichtig. Die Route gilt allgemein als sehr
+        anspruchsvoll und sollte nur von erfahrenen Abenteurern begangen werden. Obwohl sich der
+        Weg bestens zum Wandern eignet und oftmals gut besucht ist, kannst du hier zur richtigen
+        Tageszeit ein bisschen Ruhe genießen. 8 Std 30
+        </string>
+    //Pizzeria
+    <string name="recommendationPizzariaSantoro">Santoro Pizzería</string>
+    <string name="starsPizzariaSantoro">4.8</string>
+    <string name="recommendationPizzariaSantoroDes">Mit Abstand die beste Pizzeria in Granada,
+        super Service, die Pizza wird vor den Augen zubereitet und schmeckt perfekt. Auch die
+        Nachspeisen sind sehr zu empfehlen. Auf jeden Fall einen Besuch wert!
+        </string>
+    <string name="recommendationPizzariaAmici">Pizzeria Los Amici</string>
+    <string name="starsPizzariaAmici">4.7</string>
+    <string name="recommendationPizzariaAmiciDes">In einer der besten Pizzerien in ganz Granada
+        können Sie dem Pizzabäcker dabei zusehen, wie er den gesamten Prozess erledigt. Der
+        Teig ist exquisit, sehr ausgewogen. Die Zutaten sind frisch und die Pizzen sind reichlich
+        vorhanden. Die Atmosphäre ist sehr gemütlich und angenehm, was es zusammen mit dem Personal
+        zu einem einzigartigen Ort macht.
+        </string>
+    <string name="recommendationPizzariaCiao">Pizzeria Bella Ciao</string>
+    <string name="starsPizzariaCiao">4.6</string>
+    <string name="recommendationPizzariaCiaoDes">In der Gegend etwas außerhalb des Zentrums
+        gibt es einen kleinen Ort, wo Sie spontan eine wirklich gute Pizza bekommen können, gut
+        zubereitet mit hervorragenden Zutaten und zu sehr ehrlichen Preisen.
+        </string>
+    <string name="recommendationPizzariaMille">Grazie Mille</string>
+    <string name="starsPizzariaMille">4.6</string>
+    <string name="recommendationPizzariaMilleDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+    //Parties
+    <string name="recommendationPartiesMae">Mae West</string>
+    <string name="starsPartiesMae">3.5</string>
+    <string name="recommendationPartiesMeaDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+    <string name="recommendationPartiesNocta">Pub NOCTA</string>
+    <string name="starsPartiesNocta">4.5</string>
+    <string name="recommendationPartiesNoctaDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+    <string name="recommendationPartiesConfuso">Confuso</string>
+    <string name="starsPartiesConfuso">5.0 (new)</string>
+    <string name="recommendationPartiesConfusoDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+    //Cities
+    <string name="recommendationOtherAlmeria">Almería</string>
+    <string name="starsOtherAlemria">4.0 (new)</string>
+    <string name="recommendationOtherAlmeriaDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+    <string name="recommendationOtherRonda">Ronda</string>
+    <string name="starsOtherRonda">4.0 (new)</string>
+    <string name="recommendationOtherRondaDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+    <string name="recommendationOtherMalaga">Malaga</string>
+    <string name="starsOtherMalaga">4.0 (new)</string>
+    <string name="recommendationOtherMalagaDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+    <string name="recommendationOtherSevilla">Sevilla</string>
+    <string name="starsOtherSevilla">4.0 (new)</string>
+    <string name="recommendationOtherSevillaDes">Eine der besten, wenn nicht die beste Pizzeria in
+        ganz Granada. Außergewöhnliche Lebensmittel, unschlagbarer Service und erschwingliche Preise
+        und Werbeaktionen für alle Budgets.
+        </string>
+
+
+
+</resources>
